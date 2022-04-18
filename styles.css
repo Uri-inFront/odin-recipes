@@ -114,3 +114,46 @@
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+/* Breaded Chicken html page */
+.recipe-chicken {
+    background-color: rgb(135, 206, 235);
+}
+
+.link-chicken {
+    color: #00008b;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title-chicken {
+    color: rgba(196, 145, 2);
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.img-chicken {
+    height: 500px;
+    width: 600px;
+}
+
+.description-chicken,
+.ingredients-chicken,
+.steps-chicken {
+    color: rgb(196, 145, 2);
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.para-chicken {
+    color: darkblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.make-chicken,
+.assemble-chicken {
+    color: darkblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
