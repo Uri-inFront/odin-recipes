@@ -1,12 +1,12 @@
-* {
-    background-color: lightblue;
+/*Main index.html page*/
+.main {
+    background-color: rgb(135, 206, 235);
 }
 
 #title {
-    color: rgba(196, 145, 2);
-    font-size: 60px;
+    color: rgb(196, 145, 2);
+    font-size: 80px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
 }
 
 .pizza,
@@ -16,3 +16,45 @@
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/* Pizza html */
+.recipe {
+    background-color: rgb(135, 206, 235);
+}
+
+.link {
+    color: #00008b;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title-pizza {
+    color: rgba(196, 145, 2);
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img-pizza {
+    height: 500px;
+    width: 600px;
+}
+
+.description-pizza,
+.ingredients-pizza,
+.steps-pizza {
+    color: rgb(196, 145, 2);
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.para {
+    color: darkblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.make-pizza,
+.assemble-pizza {
+    color: darkblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Tacos de lengua html*/
