@@ -1,0 +1,18 @@
+* {
+    background-color: lightblue;
+}
+
+#title {
+    color: rgba(196, 145, 2);
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.pizza,
+.tongue,
+.chicken {
+    color: #00008b;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
