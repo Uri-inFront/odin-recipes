@@ -1,4 +1,4 @@
-/*Main index.html page*/
+/* Main index.html page */
 .main {
     background-color: rgb(135, 206, 235);
 }
@@ -7,6 +7,7 @@
     color: rgb(196, 145, 2);
     font-size: 80px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 .pizza,
@@ -31,6 +32,7 @@
     color: rgba(196, 145, 2);
     font-size: 80px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 .img-pizza {
@@ -57,4 +59,58 @@
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+.make-pizza .dough,
+.sauce,
+.toppings {
+    font-weight: bold;
+}
+
+.assemble-pizza .assemble-dough,
+.assemble-sauce,
+.final {
+    font-weight: bold;
+}
 /* Tacos de lengua html*/
+.recipe-lengua {
+    background-color: rgb(135, 206, 235);
+}
+
+.link-lengua {
+    color: #00008b;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title-lengua {
+    color: rgba(196, 145, 2);
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.img-lengua {
+    height: 500px;
+    width: 600px;
+}
+
+.description-lengua,
+.ingredients-lengua,
+.steps-lengua {
+    color: rgb(196, 145, 2);
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.para-lengua {
+    color: darkblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.make-lengua,
+.assemble-lengua {
+    color: darkblue;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
